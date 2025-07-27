@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nikhil Karaka</h1>
-<h3 align="center">Passionate About Turning Data into Actionable Insights</h3>
+<h1 align="left">Hi 👋, I'm Nikhil Karaka</h1>
+<h3 align="left">Passionate About Turning Data into Actionable Insights</h3>
 
+![Data-Website-Analytics](https://github.com/user-attachments/assets/b57077ac-6831-4c1e-bb56-b5fd57d851fc)
 
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://nikhilpredicts.github.io/Portfolio-Nikhil/)
